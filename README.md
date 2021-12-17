@@ -1,3 +1,4 @@
+[![Docker Image Build](https://github.com/alexohneander/seedbox-docker/actions/workflows/docker-image.yml/badge.svg?branch=main)](https://github.com/alexohneander/seedbox-docker/actions/workflows/docker-image.yml)
 # Seedbox Docker
 
 Docker Seedbox is a container equipped with software for downloading and deploying torrents.
