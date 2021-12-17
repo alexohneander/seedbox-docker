@@ -13,3 +13,7 @@ Docker Seedbox is a container equipped with software for downloading and deployi
  - openvpn
 
 ### Run Container
+
+```bash
+docker run
+```
