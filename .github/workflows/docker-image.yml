@@ -22,6 +22,7 @@ jobs:
         # uses: docker/build-push-action@9379083e426e2e84abb80c8c091f5cdeb7d3fd7a
         uses: mr-smithers-excellent/docker-build-push@v5.6
         with:
+          registry: docker.io
           image: alexohneander/seedbox
           push: true
           addLatest: true
