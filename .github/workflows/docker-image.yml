@@ -22,6 +22,7 @@ jobs:
         # uses: docker/build-push-action@9379083e426e2e84abb80c8c091f5cdeb7d3fd7a
         uses: docker/build-push-action@v2.3.0
         with:
+          image: alexohneander/seedbox
           push: true
-          tags: alexohneander/seedbox:$(date +%s)
           addLatest: true
+          addTimestamp: true
