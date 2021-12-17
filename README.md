@@ -11,3 +11,5 @@ Docker Seedbox is a container equipped with software for downloading and deployi
  - NGINX reverse proxy
  - protonvpn
  - openvpn
+
+### Run Container
